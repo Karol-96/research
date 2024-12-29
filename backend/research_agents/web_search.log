@@ -1,0 +1,24 @@
+2024-12-30 00:47:58,711 - market_agents.research_agents.utils - ERROR - Error loading configuration: [Errno 2] No such file or directory: 'market_agents/research_agents/web_search_config.yaml'
+2024-12-30 00:48:45,108 - market_agents.research_agents.utils - ERROR - Error loading configuration: [Errno 2] No such file or directory: 'market_agents/research_agents/web_search_config.yaml'
+2024-12-30 00:49:35,376 - utils - ERROR - Error loading configuration: [Errno 2] No such file or directory: 'market_agents/research_agents/web_search_config.yaml'
+2024-12-30 00:50:35,370 - utils - INFO - Starting search with query: Cryptocurrency to invest on
+2024-12-30 00:50:37,871 - utils - INFO - 
+                            === Search Process Starting ===
+                            Original Query: Cryptocurrency to invest on
+                            Generated 2 queries:
+                              1. latest cryptocurrency investment opportunities December 2024
+  2. top cryptocurrencies to invest in Q4 2024
+                            ==============================
+                            
+2024-12-30 00:50:37,871 - utils - INFO - 
+                                === Processing Query 1/2 ===
+                                Query: latest cryptocurrency investment opportunities December 2024
+                                
+2024-12-30 00:50:40,862 - utils - INFO - 
+                                URLs found for query "latest cryptocurrency investment opportunities December 2024":
+                                - https://zebpay.com/blog/top-10-crypto-to-invest-in-2024
+- https://zebpay.com/blog/top-5-ai-crypto-coins
+- https://zebpay.com/blog/top-5-meme-coins-of-2024
+- https://m.economictimes.com/markets/cryptocurrency/crypto-gems-top-crypto-assets-to-watch-buy-in-december-2024/articleshow/116246272.cms
+- https://techpoint.africa/2024/12/08/top-crypto-that-can-skyrocket-december-2024-list/
+                                
